@@ -20,7 +20,8 @@ nav ul {
 
 .p_class {
   font-size: 20px;
-  color: red;
+  text-decoration: dashed;
+  color: purple;
 }
 
 #p_id {
